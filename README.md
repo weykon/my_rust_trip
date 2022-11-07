@@ -17,10 +17,12 @@ my repo: https://github.com/weykon/weykon_leetcode
 ## 3. Notes for Each Knowledge Point
 
 The main content is contained in servals branches in this repo. 
-https://github.com/weykon/rust_learn
 
 using Git-Graph (vscode ext) clearly view for each knowledge.
 
+my repo: https://github.com/weykon/rust_learn
+
 ## 4. Middle Level Code for Rust Example 
 Some case in rust. 
+
 my repo: https://github.com/weykon/my_rust.git
