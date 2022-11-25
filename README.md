@@ -26,3 +26,5 @@ my repo: https://github.com/weykon/rust_learn
 Some case in rust. 
 
 my repo: https://github.com/weykon/my_rust.git
+
+chat-app: https://github.com/weykon/tokio-chat-example
