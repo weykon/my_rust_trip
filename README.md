@@ -22,6 +22,9 @@ using Git-Graph (vscode ext) clearly view for each knowledge.
 
 my repo: https://github.com/weykon/rust_learn
 
+### basic to know standard crates
+https://blessed.rs/crates
+
 ## 4. Middle Level Code for Rust Example 
 Some case in rust. 
 
