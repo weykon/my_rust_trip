@@ -34,3 +34,6 @@ tokio-feature-example: https://github.com/tokio-rs/website/tree/master/tutorial-
 ## 5. A Video Course 
 
 course: https://www.udemy.com/course/ultimate-rust-2/
+
+## 6. Cheat 
+https://cheats.rs/#idiomatic-rust
